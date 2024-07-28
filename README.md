@@ -5,8 +5,9 @@ This application allows users to set price alerts for cryptocurrencies and recei
 ## Running the project
 
 1. Clone the repository
-2. Run `docker-compose up --build`
-3. The application will be available at `http://localhost:8080`
+2. If you're on Windows, you need to install and run Docker Desktop
+3. Run `docker-compose up --build`
+4. The application will be available at `http://localhost:8080`
 
 ## API Endpoints
 
