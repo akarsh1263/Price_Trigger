@@ -65,3 +65,8 @@ The application uses Binance's WebSocket connection to get real-time price updat
 
 The "fetch all alerts" endpoint uses Redis to cache results. The cache memory is updated every time a new Alert is created, deleted or triggered
 
+## Demo and contact
+
+[Demo video](https://drive.google.com/file/d/1FfJiLLm3OcnygwNZWEmbucTK80XnyVv0/view?usp=sharing)
+Discord id: 763377449789685760
+
