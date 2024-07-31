@@ -42,7 +42,7 @@ Request Body:
 ```json
 {
  "coin": "BTC",
- "target_price": "35000"
+ "target_price": 35000.0
 }
 ```
 
